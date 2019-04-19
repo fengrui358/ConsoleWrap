@@ -118,7 +118,7 @@ namespace ConsoleWrap
             {
                 StartInfo =
                 {
-                    FileName = "natapp.exe",
+                    FileName = filePath,
                     UseShellExecute = false,
                     //RedirectStandardInput = true,
                     //RedirectStandardError = true,
